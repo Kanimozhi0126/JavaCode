@@ -1,0 +1,203 @@
+from TestLeaf Online to everyone:    9:08 PM
+05/08/2020 - WEDNESDAY
+
+1. Write a Java Program To Perform Arithmetic Operation(Sum of multiple numbers) using Method Overloading 
+
+2.  Write a Java Program to convert Char to int 
+
+3. Write a Java Program to check given number is a Perfect square.
+
+1) Write a java program to print the pyramid of stars for a given number of rows
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
+2) Write a Java Program to check the given year is Leap Year (eg:2000)//if the year is divisible by 4 and retrns 0
+3) Write a Java Program to Display alternate Prime numbers upto 20
+     Output: 2, 5, 11, 17
+
+
+1) Write a Java Program to find HCF and LCM of  any Two Numbers
+
+2) Write a Java Program for Bubble Sort in Descending Order	-----pending
+
+3) Write a Java Program to Print Pascals Triangle
+
+It is like starting with 1 and then moving down the triangle is the result(addition) of sequential numbers in the previous row
+ex: 
+			1
+		1		1
+	1		2		1
+1		3		3		1
+
+1) Write a Java Program to get IP Address of your system
+
+2) Write a Java Program to Reverse a number using Recursion 
+
+3) Write a Java Program for Linear Search 
+(To find out numbers among all other numbers entered by the user)
+
+1.Prgram to sort an arrayin ascending order
+2.two add two matrix using multi dimensional array
+3.Java program for selection sorting-----------------------pending
+
+Selection sorting works by dividing the original array in two subarrays.sorted subarray n unsorted subarray,
+initially the sorted array is empty. This algorithym works by repeatedly finding the min element from the unsorted subarray
+and replacing it with 
+
+1. Find largest and smallest elements of an array.
+2. Java Program to Calculate average of numbers using Array
+3. Java Program to Add the elements of an Array
+
+
+1. Print all the string array elements which is greater than 5 in size
+2. Write a Java Program to Increment Every Element of the Array by One & 
+   Print Incremented Array
+3. Java Program to Print the Odd & Even Numbers in an Array
+
+1. Swap the first and last character of a string in Java
+2. Write a Java program to repeat every character twice in the original string.
+3. Write a Java program to count the number of words ending in 'm' or 'n'
+
+Java Questions(two or more solutions for each problem):
+============================================
+1.Write a Java Program to Find Duplicate characters in a String (Eg: SeleniumWorkout)
+2. Write a java program to sort the words in the given String (eg: Welcome to the java practice session)
+output: Welcome java practice session the to
+3. Write a Java Program to check the given String is Palindrome (madam)
+
+1. write a java program to insert an element at a particular position of an ArrayList
+2. Compare two sets and retain elements which are same on both 
+3. Write a java Program to remove repeated elements from ArrayList without using set.
+
+1. Remove the List elements which are starts with 's' and size is    greater    than 5
+2. Find the sum of integer list
+3. Input: "Welcome to the Java world" 
+   Store the unique characters in to list and their indexes into set
+   Hint : The char 'e' should stored in list only once
+      Both the index of 'e' should stored in set.
+
+1. Add these data into Map and write it to Excel
+    input: {1=[Employee ID, Employee Name, Salary], 2=[01, balaji, 100000], 3=[02, Hari, 100000], 4=[03,         Sam, 100000]}
+    Excel Output :
+    [Employee ID, Employee Name, Salary]
+    [01, bala, 100000]
+    [02, Ganesh, 100000]
+    [03, Krish, 100000]
+2. Write the excel data into MAP
+   
+   input:     Name    Title
+        Hari    Lead
+        Sam    Executive
+        Mohan    Executive
+        Sarath    Sr.Developer
+
+1. Convert this  two-dimensional array in to HashMap
+    * Store title as a key and name as a value
+     String[][] names ={{ "Manager","Babu"}, {"Tester", "Sam"},{ "Lead","Hari"}, {"Tester", "Naveen"}}
+     output: { Manager=Babu, Tester= Sam,Naveen, Lead=Hari }
+
+
+2. * Split the String into words
+   * Store each words as a key and their first letter as a value in a hashMap
+   * Check whether the map value is the starting letter of corresponding key.
+	input : "Chennai is the capital of the state of Tamil Nadu"
+	output : {"Chennai=C, is=i, the=t, capital=c, of=o, state=s,Tamil=T, Nadu=N}
+
+3. * Check the list values  with the map key elements . 
+   * If the key is existed in list, increase the Map value by 1.
+
+	list :[Chennai, Kanyakumari, Coimbatore, Karur, Erode, Dindigul, Salem, Tiruppur]
+	Map  :{"Chennai=1, Tiruppur=1, Namakkal=1, Tenkasi=1, Coimbatore=1, Ariyalur=1, Erode=1"}
+	
+       output:{"Chennai=2, Tiruppur=2, Namakkal=1, Tenkasi=1, Coimbatore=2, Ariyalur=1, Erode=2"}
+
+
+1) Launch the app "https://www.bestbuy.com/"
+2) Click on Products
+3) Click on Cell Phones
+4) Click on iPhones
+5) Click on iPhone SE
+6) Click on Unlocked
+7) Click on Continue
+8) Change Internal Memory as 128GB 
+9) Click on "I'll activate service later"
+10) Get the price (price_1), store it and print it
+11) Click on Continue
+12) Click on Add to Cart
+13) Click on Go to Cart in the pop up
+14) Get the Total price (price_2) and print it
+15) Verify whether both the prices are same
+16) Click on Checkout
+17) Click on Sign In
+18) Verify the error message
+
+[9:03 PM, 9/1/2020] +91 99401 65616: Launch Salesforce application "https://login.salesforce.com/"
+enter the login credentials 
+login into the application
+Click on Create
+Click on User
+Fill the mandatory fields
+Fill in Delegated Approver with whatever value available	
+Fill in Manager
+Click on save
+Verify the record created with email
+[9:03 PM, 9/1/2020] +91 99401 65616: email: "samdavid@testleaf.com"
+password: samchennai92
+
+
+Launch the url  "amazon.in"
+Enter 'outslayer' in the searchbox and 
+Pick the first resulting item
+Get all the resulting item prices in the page and print it by sorting it(use list)
+Click on the item that has the highest price
+Add it to the cart
+Click on proceed to buy
+Click on login
+Verify the error message
+
+
+1) Go to https://www.ajio.com/shop/women
+2) Mouseover on Women, CATEGORIES and click on Kurtas
+3) Click on Brands and choose Ajio
+4) Check all the results are Ajio
+5) Set Sort by the result as Discount
+6) Click the first result and click ADD TO BAG
+7) Verify the error message Select your size to know your estimated delivery date
+8) Select size and click ADD TO BAG
+9) click on Enter pin-code to know estimated delivery date
+10) Enter the pincode as 603103 and click Confirm pincode
+11) Print the message and click Go to  Bag
+12) Click on Proceed to Shipping and clode the browser
+
+https://dev90887.service-now.com/login.do?user_name=admin&sys_action=sysverb_login&user_password=EbN97sDwdPvK
+https://dev90887.service-now.com/login.do?user_name=admin&sys_action=sysverb_login&user_password=EbN97sDwdPvKhttps://dev90887.service-now.com/login.do?user_name=admin&sys_action=sysverb_login&user_password=EbN97sDwdPvK
+https://dev90887.service-now.com/login.do?user_name=admin&sys_action=sysverb_login&user_password=EbN97sDwdPvK
+https://dev68594.service-now.com/
+Username: admin
+password: India@123
+
+1. Launch URL: https://www.zoomcar.com/chennai
+2. Click on the Start your wonderful journey link
+3. In the Search page, Click on any pick up point under POPULAR PICK-UP
+4. Click on the Next button
+5. Specify the Start Date as tomorrow Date
+6. Click on the Next Button
+7. Confirm the Next day of Start Date and Click on the Done button
+8. In the result page, capture the number of results displayed.
+9. Find the highest priced car ride using Map Interface.
+10. Click on the Book Now button for it.
+
+1) https://www.justdial.com/
+2) Set the Location as Chennai
+3) Click Auto Care in the left menu
+4) Click Car Repair
+5) Click Car Brand as Hyundai
+6) Click Hyundai Xcent
+7) Click on Location and Enter Porur
+8) Select Porur from the dropdown list
+9) Select Distance starting from 1 km
+10) Identify all the Service Center having Ratings >=4.5 and Votes >=50
+11) Save all the Service Center name and Phone number matching the above condition in excel 
+12) Close the browser
